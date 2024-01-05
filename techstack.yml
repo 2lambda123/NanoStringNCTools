@@ -2,7 +2,7 @@ repo_name: 2lambda123/NanoStringNCTools
 report_id: e14ab12ba9c140f4d2c90f9fe8ba95ba
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:31:40+00:00'
+timestamp: '2024-01-05T08:14:18+00:00'
 requested_by: NicoleEO
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: David Henderson
   last_updated_on: 2020-12-17 19:48:49.000000000 Z
@@ -28,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: NicoleEO
   last_updated_on: 2020-12-17 23:54:39.000000000 Z
@@ -39,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools
   detection_source: Repo Metadata
 - name: ggplot2
   description: A data visualization package for the statistical programming language
@@ -49,6 +52,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/6560/New_Project__90_.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: NicoleEO
   last_updated_on: 2020-12-21 21:53:16.000000000 Z
@@ -60,6 +64,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -69,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Patrick Aboyoun
   last_updated_on: 2018-11-30 00:44:38.000000000 Z
@@ -80,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Nicole Ortogero
   last_updated_on: 2021-01-06 21:32:18.000000000 Z
@@ -91,6 +98,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: NicoleEO
   last_updated_on: 2020-12-17 23:54:39.000000000 Z
@@ -102,6 +110,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Zhi Yang
   last_updated_on: 2020-12-28 19:28:12.000000000 Z
@@ -113,6 +122,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Zhi Yang
   last_updated_on: 2020-12-28 19:28:12.000000000 Z
@@ -124,6 +134,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: NicoleEO
   last_updated_on: 2020-12-21 21:53:16.000000000 Z
@@ -135,6 +146,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Zhi Yang
   last_updated_on: 2020-12-28 19:28:12.000000000 Z
@@ -146,6 +158,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: NicoleEO
   last_updated_on: 2020-12-17 23:54:39.000000000 Z
@@ -157,6 +170,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Nicole Ortogero
   last_updated_on: 2021-01-06 21:32:18.000000000 Z
@@ -168,6 +182,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: NicoleEO
   last_updated_on: 2020-12-17 23:54:39.000000000 Z
@@ -179,6 +194,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: NicoleEO
   last_updated_on: 2020-12-17 23:54:39.000000000 Z
