@@ -1,0 +1,200 @@
+repo_name: 2lambda123/NanoStringNCTools
+report_id: e14ab12ba9c140f4d2c90f9fe8ba95ba
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:20:31+00:00'
+requested_by: NicoleEO
+provider: github
+branch: master
+detected_tools_count: 16
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: David Henderson
+  last_updated_on: 2020-12-17 19:48:49.000000000 Z
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: NicoleEO
+  last_updated_on: 2020-12-17 23:54:39.000000000 Z
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools
+  detection_source: Repo Metadata
+- name: ggplot2
+  description: A data visualization package for the statistical programming language
+    R
+  website_url: https://ggplot2.tidyverse.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/6560/New_Project__90_.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: NicoleEO
+  last_updated_on: 2020-12-21 21:53:16.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Patrick Aboyoun
+  last_updated_on: 2018-11-30 00:44:38.000000000 Z
+- name: RColorBrewer
+  description: ColorBrewer Palettes
+  package_url: https://cran.r-project.org/RColorBrewer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Nicole Ortogero
+  last_updated_on: 2021-01-06 21:32:18.000000000 Z
+- name: RUnit
+  description: R Unit Test Framework
+  package_url: https://cran.r-project.org/RUnit
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: NicoleEO
+  last_updated_on: 2020-12-17 23:54:39.000000000 Z
+- name: ggbeeswarm
+  description: Categorical Scatter
+  package_url: https://cran.r-project.org/ggbeeswarm
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Zhi Yang
+  last_updated_on: 2020-12-28 19:28:12.000000000 Z
+- name: ggiraph
+  description: Make 'ggplot2' Graphics Interactive
+  package_url: https://cran.r-project.org/ggiraph
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Zhi Yang
+  last_updated_on: 2020-12-28 19:28:12.000000000 Z
+- name: ggplot2
+  description: Create Elegant Data Visualisations Using the Grammar of Graphics
+  package_url: https://cran.r-project.org/ggplot2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: NicoleEO
+  last_updated_on: 2020-12-21 21:53:16.000000000 Z
+- name: ggthemes
+  description: Extra Themes, Scales and Geoms for 'ggplot2'
+  package_url: https://cran.r-project.org/ggthemes
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Zhi Yang
+  last_updated_on: 2020-12-28 19:28:12.000000000 Z
+- name: knitr
+  description: A General-Purpose Package for Dynamic Report Generation in R
+  package_url: https://cran.r-project.org/knitr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: NicoleEO
+  last_updated_on: 2020-12-17 23:54:39.000000000 Z
+- name: pheatmap
+  description: Pretty Heatmaps
+  package_url: https://cran.r-project.org/pheatmap
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Nicole Ortogero
+  last_updated_on: 2021-01-06 21:32:18.000000000 Z
+- name: qpdf
+  description: Split, Combine and Compress PDF Files
+  package_url: https://cran.r-project.org/qpdf
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: NicoleEO
+  last_updated_on: 2020-12-17 23:54:39.000000000 Z
+- name: rmarkdown
+  description: Dynamic Documents for R
+  package_url: https://cran.r-project.org/rmarkdown
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/NanoStringNCTools/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: NicoleEO
+  last_updated_on: 2020-12-17 23:54:39.000000000 Z
